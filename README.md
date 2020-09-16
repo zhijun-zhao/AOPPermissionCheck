@@ -1,0 +1,2 @@
+# AOPPermissionCheck
+AOPPermissionsDispatcher通过注解处理运行时权限申请，可用于Activity、Service、hybrid方法等。
